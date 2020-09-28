@@ -1,2 +1,2 @@
 # fullstack-test
-Small fullstack test made with typescript, nextjs and expressjs
+Small fullstack test made with nextjs, nodejs and expressjs
